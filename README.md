@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ! 👋
 
 I'm a **french math student** and **Java** amateur ! I also know a bit of **Python**.
 
