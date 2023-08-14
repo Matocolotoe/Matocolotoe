@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I'm a **French math student** in "classe préparatoire" and **Java** amateur ! I also know a bit of **Python** and **OCaml**.
+I'm a math student and I code stuff in Java ! I also know a bit of Python and OCaml.
 
 I'm currently maintaining [Skript-1.8](https://github.com/Matocolotoe/Skript-1.8), a fork of the Skript project for Minecraft 1.8 only.
 
