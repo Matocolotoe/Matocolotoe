@@ -5,6 +5,6 @@ I mainly program in **Java** to create various games on **Minecraft** with [@Rom
 
 I created [Skript-1.8](https://github.com/Matocolotoe/Skript-1.8) back in 2019, which is a fork of the [Skript](https://github.com/SkriptLang/Skript) project made for Minecraft 1.8.
 
-I also have some knowledge in **Python** and **C**.
+I also have some knowledge of **C**, **C++** and **Python**.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Matocolotoe&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
