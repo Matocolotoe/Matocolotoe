@@ -7,4 +7,4 @@ I created [Skript-1.8](https://github.com/Matocolotoe/Skript-1.8) back in 2019, 
 
 I also have some knowledge of **C**, **C++** and **Python**.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Matocolotoe&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Matocolotoe&count_private=true&rank_icon=github&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
